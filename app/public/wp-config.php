@@ -83,14 +83,14 @@ if ( ! defined( 'WP_DEBUG' ) ) {
 }
 
 
-define('AUTH_KEY',         'FHw5D2twnaSRo8c6w7oX7uT8GDj6MR4USA5Tvwo8WmKmqliEQe0bHHlsOwqs65Ccem8/yOz6MFQNDUM8gwb1WQ==');
-define('SECURE_AUTH_KEY',  'feB7vEgaoy/6WobzOfjTpFFxC71T3/xsivUVI8uhOTkplo+vQ3wuwEmU6VtHaOyt9iCG9l/i8484JdW/dl2ULQ==');
-define('LOGGED_IN_KEY',    '9pyzJLiRByUj4cKQMih5CqzSvduvWA23jKS9vN3PiQbf1MlPkkkqp0XMupQ72pr63mksv0/C0Z+faxg+kBcihQ==');
-define('NONCE_KEY',        'NE6o1SW+q3kp2eoVzBDzGEKXwgAe2Xrok7+grDVld2vkTQU5usjxpnqOIDSKSLlEgF8LJs1cy8xE8zE6ErZ/6g==');
-define('AUTH_SALT',        'I28MhFDHGNehJW3+wWbkuZmG7HgcEI30dt7emOyqmS3lSoj4VIFIB3jkFIWmWDGmENnRnrPN6jiEskBXeGTShA==');
-define('SECURE_AUTH_SALT', 'We3jho7g26qnjfd5YhBKdjb5mPlDBS9WBHQ0nPaa0udHsCr5T1AbvA125snNbeDZBxUNQn5wUCbKDKJaZExOMQ==');
-define('LOGGED_IN_SALT',   '2/nwHApXnuMexG6gYdfuoLDk4cogEpRxdu54VCqOxzGojxtk7J+Fc3Z22hhhlWeBxF1nJ1pHWQsbrTURQHD2cA==');
-define('NONCE_SALT',       'ohMbJGd2y2WDXGvPr0dLiNNhdEDgGxW3Gd4YBLAlZIkE98qdrQ0f4uVQcZrDLlFQlPWJ6Jjud3EpKocL+M1AZw==');
+define('AUTH_KEY',         'RuuuwQD0/1t1gXUDLo7bwTnZPsMy1dLGv9+nXWaJHxOz6JWcvMe6rwqavhIhcXrR4oTIet2lES4gYpZi9FSsdw==');
+define('SECURE_AUTH_KEY',  'i01x6CU6wVCjx1+cYfe7EhUFTCCS/0C8TnoEh2Uk8wU18p28OOkAyWVxoUZ7d/WYCn+aRcTc1eomwD77IHnuCw==');
+define('LOGGED_IN_KEY',    'BIu41Cb0EZHjCYfupOJ8NXWArQTQe6Vu43ur+yuV6h1Uke6SxYAosbaGNT1LgdgZDemV+XODT0gw2/iBBw1W1A==');
+define('NONCE_KEY',        'Rn2nLepxNzszGLaYJCr4xJ7s9erY+ACsBe0rIxicJZhBqcjAL62tE8yKUf7F3me0Vt1E1cXKAKX4X7Rb59xEFQ==');
+define('AUTH_SALT',        '0wTsrV73Zgt2SdS6089pwIydY6wDyTRJNXrWK6cEuEutMp0/rY5x0r8UciVWada0U6A0n3KMjUBxvgRFPzVxZw==');
+define('SECURE_AUTH_SALT', 'xx7b5cMMaK5FfvjSgA7dhTiSUaP+0H0jGdGFK9W41YOMPfBp25jfX47szIHabZP8CDCj6t8Hpv4OEogJcVv8lA==');
+define('LOGGED_IN_SALT',   'X8MaSBZEhRp3AN9fzwPKn0OSxHVfv2I86pF4wCxiIlhvgg6Oc6rkAzWu4b7Jxwfl1pvER+nmSG4bSPl+W6Ep5g==');
+define('NONCE_SALT',       'KqXZ9wPWhgWihW+V8jKDy2G+0lLRoT3KtWd9HTlHhSNy8JxOF2FwVLrKpRD4tyAWJcVBkgYPy69UgsWdj0BnTQ==');
 define( 'WP_ENVIRONMENT_TYPE', 'local' );
 /* That's all, stop editing! Happy publishing. */
 
